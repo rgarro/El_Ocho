@@ -1,8 +1,12 @@
 # El_Ocho
 
-Visiones del Tepozteco ...
-Tailing microtimes produces inconditional micro amounts of times
-that wont make difference in infinitesimal render conditions ..
+# Pumping a M16 like inflating a Slingshot surf kite ...#
+# Ruby Foxes Found my LibTech PickUp-Stick #
+
+I see the girls walk by
+Dressed in their summer clothes
+I have to turn my head
+Until my darkness goes.. 
 
 Montuno for monty coming from soundcloud here ...
  
