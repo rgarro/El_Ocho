@@ -1,9 +1,8 @@
 # El_Ocho
 
-# Pumping a M16 like inflating a Slingshot surf kite ...#
-# Ruby Foxes Found my LibTech PickUp-Stick #
-
-# Rescue Roland Aira System behind the enemy lines # 
+# inflating a Slingshot turbine v1 surfkite ...#
+# general Santos, la cEIBA En Sapoa donde le cortaron la pinga a los conTRAS  #
+# wasCo Lycoming T53-L-13, cannabis prophecy ... #
 
 Jazzy Fortunate from soundcloud here ...
  
