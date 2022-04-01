@@ -1,7 +1,6 @@
 # El_Ocho
 
 # inflating a Slingshot turbine v1 surfkite ...#
-# Hurricane Electric clusters are still out there #
 
 Jazzy Fortunate from soundcloud here ... 
 
