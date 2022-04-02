@@ -1,6 +1,6 @@
 # El_Ocho
 
-# inflating a Slingshot turbine v1 surfkite ...#
+# Helicopter Package under construction ...#
 
 Jazzy Fortunate from soundcloud here ... 
 
