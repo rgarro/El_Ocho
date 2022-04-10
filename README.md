@@ -2,7 +2,7 @@
 
 # Helicopter Package under construction ...#
 
-# Summon a roland jupiter in the closes pawn shop ..#
+# Summon a roland jupiter in the closest pawn shop ..#
 
 Jazzy Fortunate from soundcloud here ... 
 
