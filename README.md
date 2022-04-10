@@ -2,6 +2,8 @@
 
 # Helicopter Package under construction ...#
 
+# Summon a roland jupiter in the closes pawn shop ..#
+
 Jazzy Fortunate from soundcloud here ... 
 
 [![Falklands are British, que no se resistieran, por que sino los mataban ... 
