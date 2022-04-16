@@ -2,7 +2,7 @@
 
 # Helicopter Package under construction ...#
 
-# Summon a roland jupiter in the closest pawn shop ..#
+# Falklands are British!!, Margaret Thatcher owes me a PayPal ...#
 
 Jazzy Fortunate from soundcloud here ... 
 
