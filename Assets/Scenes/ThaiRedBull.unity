@@ -597,7 +597,8 @@ MonoBehaviour:
   maxAltitude: 300
   blades: {fileID: 1042334780}
   helicopter: {fileID: 1705546461}
-  helicopterThrottleSoundClip: {fileID: 0}
+  helicopterThrottleSoundClip: {fileID: 8300000, guid: cb0c1a94919dc4af0ba4b13bbf7c1460,
+    type: 3}
 --- !u!82 &1550025994
 AudioSource:
   m_ObjectHideFlags: 0
