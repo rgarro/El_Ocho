@@ -581,6 +581,8 @@ MonoBehaviour:
   RightIcon: {fileID: 2800000, guid: 60ff50d5f6608453697ad507faceb0d9, type: 3}
   btnSkin: {fileID: 0}
   buttons_x_corner: 200
+  cameraTransitionSoundClip: {fileID: 8300000, guid: f1dd960749f294f3b9a28246b4b92fc6,
+    type: 3}
 --- !u!114 &1550025993
 MonoBehaviour:
   m_ObjectHideFlags: 0
