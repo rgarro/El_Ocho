@@ -668,9 +668,9 @@ MonoBehaviour:
   helicopter: {fileID: 1705546461}
   helicopterThrottleSoundClip: {fileID: 8300000, guid: cb0c1a94919dc4af0ba4b13bbf7c1460,
     type: 3}
-  rotationSteps: 5
   turnClocwise: 1
   topRotationSpeed: 10
+  enginePowerSliderYpos: 103
 --- !u!82 &1550025994
 AudioSource:
   m_ObjectHideFlags: 0
@@ -986,7 +986,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 70.84
+      value: 72.26
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
