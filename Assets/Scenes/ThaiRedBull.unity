@@ -670,7 +670,9 @@ MonoBehaviour:
     type: 3}
   turnClocwise: 1
   topRotationSpeed: 10
-  enginePowerSliderYpos: 103
+  enginePowerSliderYpos: 123
+  enginePowerSliderXpos: 200
+  engineThrottleLabel: Engine Throttle
 --- !u!82 &1550025994
 AudioSource:
   m_ObjectHideFlags: 0
