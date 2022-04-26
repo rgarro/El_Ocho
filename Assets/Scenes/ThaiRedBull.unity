@@ -673,8 +673,8 @@ MonoBehaviour:
   enginePowerSliderYpos: 123
   enginePowerSliderXpos: 200
   engineThrottleLabel: Engine Throttle
-  altitudeSliderYpos: 158
-  altitudeSliderXpos: 211
+  altitudeSliderYpos: 178
+  altitudeSliderXpos: 205
   altitudeLabel: Altitude
 --- !u!82 &1550025994
 AudioSource:
