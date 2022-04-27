@@ -662,7 +662,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialAltitude: 0
-  maxAltitude: 300
+  maxAltitude: 50
   blades: {fileID: 1042334780}
   tailRotor: {fileID: 1167806979}
   helicopter: {fileID: 1705546461}
@@ -672,7 +672,7 @@ MonoBehaviour:
   topRotationSpeed: 10
   enginePowerSliderYpos: 123
   enginePowerSliderXpos: 200
-  engineThrottleLabel: Engine Throttle
+  engineThrottleLabel: Elevate
   altitudeSliderYpos: 178
   altitudeSliderXpos: 205
   altitudeLabel: Altitude
@@ -991,7 +991,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 78.8
+      value: 108.9
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
