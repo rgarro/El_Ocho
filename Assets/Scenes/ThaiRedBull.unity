@@ -666,7 +666,7 @@ MonoBehaviour:
   blades: {fileID: 1042334780}
   tailRotor: {fileID: 1167806979}
   helicopter: {fileID: 1705546461}
-  helicopterThrottleSoundClip: {fileID: 8300000, guid: cb0c1a94919dc4af0ba4b13bbf7c1460,
+  helicopterThrottleSoundClip: {fileID: 8300000, guid: f1dd960749f294f3b9a28246b4b92fc6,
     type: 3}
   turnClocwise: 1
   topRotationSpeed: 10
@@ -991,7 +991,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 108.9
+      value: 114.1
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
