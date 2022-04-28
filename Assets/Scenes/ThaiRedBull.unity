@@ -672,10 +672,10 @@ MonoBehaviour:
   topRotationSpeed: 10
   enginePowerSliderYpos: 123
   enginePowerSliderXpos: 200
-  engineThrottleLabel: Elevate
+  engineThrottleLabel: Engine Power
   altitudeSliderYpos: 178
   altitudeSliderXpos: 205
-  altitudeLabel: Altitude
+  altitudeLabel: Elevation
 --- !u!82 &1550025994
 AudioSource:
   m_ObjectHideFlags: 0
