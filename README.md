@@ -2,8 +2,7 @@
 
 # Helicopter Package under construction ...#
 
-###### float int the sum Er sky 99 left ballons Go b*y ... ######
-###### While flying a Slingshot kite I saw a F35 left a trail of Blue HUMs in the sky ######
+###### Will Test KiteSurfGear for Money ... ######
 
 Jazzy Fortunate from soundcloud here ... 
 
