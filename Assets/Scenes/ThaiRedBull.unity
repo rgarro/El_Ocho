@@ -662,7 +662,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialAltitude: 0
-  maxAltitude: 50
+  maxAltitude: 51
   blades: {fileID: 1042334780}
   tailRotor: {fileID: 1167806979}
   helicopter: {fileID: 1705546461}
