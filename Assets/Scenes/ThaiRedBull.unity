@@ -681,9 +681,9 @@ MonoBehaviour:
   rudderSliderYpos: 265
   minAltitudeToRudder: 5
   minRotationStepsToElevate: 20
-  pitchAngleFront: 4
-  pitchAngleBack: -4
-  pitchSteps: 0.23
+  pitchAngleFront: 274
+  pitchAngleBack: 266
+  pitchSteps: 0.06
 --- !u!82 &1550025994
 AudioSource:
   m_ObjectHideFlags: 0
@@ -999,7 +999,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 109.41
+      value: 109.89
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
