@@ -685,6 +685,7 @@ MonoBehaviour:
   pitchAngleBack: 266
   pitchSteps: 0.55
   ceroCorrection: 260
+  forwardSpeed: 4
 --- !u!82 &1550025994
 AudioSource:
   m_ObjectHideFlags: 0
