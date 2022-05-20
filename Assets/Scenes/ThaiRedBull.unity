@@ -691,6 +691,8 @@ MonoBehaviour:
   forwardSpeed: 3
   maxForwardSpeed: 7
   backForwardKeysLegend: KEY UP Forward KEY DOWN Backward
+  pitchAngleRight: 5
+  pitchAngleLeft: -5
 --- !u!82 &1550025994
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1003,10 +1005,20 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: -0
       objectReference: {fileID: 0}
+    - target: {fileID: 1200935974787249102, guid: e8eb6769cb06d4e5f935947b69611c26,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1200935974787249102, guid: e8eb6769cb06d4e5f935947b69611c26,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 109.97
+      value: 108.67
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
