@@ -693,6 +693,9 @@ MonoBehaviour:
   backForwardKeysLegend: KEY UP Forward KEY DOWN Backward
   pitchAngleRight: 5
   pitchAngleLeft: -5
+  yawAngleRight: 2
+  yawAngleLeft: -2
+  yawSteps: 0.05
 --- !u!82 &1550025994
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1018,7 +1021,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 265.9
+      value: 281.1
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
