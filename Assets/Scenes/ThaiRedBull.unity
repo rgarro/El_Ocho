@@ -696,6 +696,7 @@ MonoBehaviour:
   yawAngleRight: 2
   yawAngleLeft: -2
   yawSteps: 0.05
+  NeedleAltitude: {fileID: 1605131047}
 --- !u!82 &1550025994
 AudioSource:
   m_ObjectHideFlags: 0
@@ -914,8 +915,25 @@ PrefabInstance:
       propertyPath: m_Texture
       value: 
       objectReference: {fileID: 2800000, guid: e6c5b2fd1c3fb44e6bb10863f78b389a, type: 3}
+    - target: {fileID: 768911566454794992, guid: 759be54752df295478e1619fa41cdbe3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 759be54752df295478e1619fa41cdbe3, type: 3}
+--- !u!114 &1605131047 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 768911566454794994, guid: 759be54752df295478e1619fa41cdbe3,
+    type: 3}
+  m_PrefabInstance: {fileID: 1605131046}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1633368310
 GameObject:
   m_ObjectHideFlags: 0
