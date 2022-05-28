@@ -914,7 +914,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Texture
       value: 
-      objectReference: {fileID: 2800000, guid: e6c5b2fd1c3fb44e6bb10863f78b389a, type: 3}
+      objectReference: {fileID: 2800000, guid: 52219ee3338a54ec782765f51b6c3a34, type: 3}
     - target: {fileID: 768911566454794992, guid: 759be54752df295478e1619fa41cdbe3,
         type: 3}
       propertyPath: m_IsActive
