@@ -722,6 +722,19 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1715586722}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1550025992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1550025991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aec2eec1f68e14249a00105532b90ef3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  helicopter: {fileID: 1705546461}
 --- !u!114 &1550025993
 MonoBehaviour:
   m_ObjectHideFlags: 0
