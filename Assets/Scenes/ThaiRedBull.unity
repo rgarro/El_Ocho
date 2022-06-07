@@ -735,6 +735,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   helicopter: {fileID: 1705546461}
+  frontLabelXpos: 960
+  frontLabelYpos: 25
 --- !u!114 &1550025993
 MonoBehaviour:
   m_ObjectHideFlags: 0
