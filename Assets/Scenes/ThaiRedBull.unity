@@ -737,7 +737,7 @@ MonoBehaviour:
   helicopter: {fileID: 1705546461}
   frontLabelXpos: 960
   frontLabelYpos: 25
-  leftLabelXpos: 800
+  leftLabelXpos: 870
   leftLabelYpos: 25
 --- !u!114 &1550025993
 MonoBehaviour:
@@ -1357,7 +1357,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 317.98
+      value: 315.41
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
