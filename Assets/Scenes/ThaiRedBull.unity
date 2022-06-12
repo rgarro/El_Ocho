@@ -739,6 +739,8 @@ MonoBehaviour:
   frontLabelYpos: 25
   leftLabelXpos: 870
   leftLabelYpos: 25
+  rightLabelXpos: 1039
+  rightLabelYpos: 25
 --- !u!114 &1550025993
 MonoBehaviour:
   m_ObjectHideFlags: 0
