@@ -739,7 +739,7 @@ MonoBehaviour:
   frontLabelYpos: 25
   leftLabelXpos: 870
   leftLabelYpos: 25
-  rightLabelXpos: 1039
+  rightLabelXpos: 1030
   rightLabelYpos: 25
 --- !u!114 &1550025993
 MonoBehaviour:
@@ -1359,7 +1359,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 315.62
+      value: 316.93
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: e8eb6769cb06d4e5f935947b69611c26,
         type: 3}
