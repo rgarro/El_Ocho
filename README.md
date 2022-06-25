@@ -4,6 +4,8 @@
 
 ###### Will Test KiteSurfGear for Money ... ######
 
+A vietnam veteran gave $5 dollar tip for writing this. ..
+
 Jazzy Fortunate from soundcloud here ... 
 
 [![Falklands are British, que no se resistieran, por que sino los mataban ... 
