@@ -1112,6 +1112,7 @@ GameObject:
   - component: {fileID: 1633368312}
   - component: {fileID: 1633368314}
   - component: {fileID: 1633368313}
+  - component: {fileID: 1633368315}
   m_Layer: 0
   m_Name: BatComputer
   m_TagString: Untagged
@@ -1161,11 +1162,11 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 8a0c9bac7b12340bf8609a3f0daa30ba, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
+  m_Pitch: 1.4
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -1278,6 +1279,24 @@ MonoBehaviour:
   buttons_x_corner: 200
   cameraTransitionSoundClip: {fileID: 8300000, guid: f1dd960749f294f3b9a28246b4b92fc6,
     type: 3}
+--- !u!114 &1633368315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1633368310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ba48417a219d4dc9b4275cad0908c1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundCloudIcon: {fileID: 2800000, guid: b9091b2cd444941bc8e9963fdd58a47e, type: 3}
+  audioData: {fileID: 1633368313}
+  IconX: 56
+  IconY: 10
+  IconWidth: 45
+  IconHeight: 45
 --- !u!1 &1701182990
 GameObject:
   m_ObjectHideFlags: 0
