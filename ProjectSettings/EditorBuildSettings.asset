@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ThaiRedBull.unity
+    guid: 9fadef8eafd734b2981b43fcf7f9ef69
   m_configObjects: {}
